@@ -1,3 +1,6 @@
+![pshot](https://user-images.githubusercontent.com/37880456/80852372-66d46f00-8c28-11ea-9e4a-a6e5e3a7460c.PNG)
+![p3](https://user-images.githubusercontent.com/37880456/80852375-6936c900-8c28-11ea-9246-06a7671fc96a.PNG)
+![p2](https://user-images.githubusercontent.com/37880456/80852377-6b008c80-8c28-11ea-8d09-c49a7f1df77a.PNG)
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
